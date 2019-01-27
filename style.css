@@ -229,3 +229,7 @@ h4{
   .left-side {
     margin-right: auto;
 }
+  .box-item{
+  width: 100%;
+}
+}
